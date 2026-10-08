@@ -1,4 +1,4 @@
-# CloudShield Technologies --- Cybersecurity GRC Portfolio
+# CloudShield Technologies: Cybersecurity GRC Portfolio
 
 **Prepared by Elizabeth Kapusa**
 
@@ -19,26 +19,26 @@ management recommendations.
 
 ## Portfolio Structure
 
-### 01 --- Executive Report
+### 01- Executive Report
 
 A management-level assessment tying the full project together.
 
-### 02 --- Risk and NIST Workbook
+### 02- Risk and NIST Workbook
 
 Risk register, risk matrix, evidence tracking, NIST CSF
 current-vs-target assessment, and executive dashboard.
 
-### 03 --- Policies and Standards
+### 03- Policies and Standards
 
 -   Access Control & Identity Management Policy
 -   Vulnerability Management & Remediation Standard
 
-### 04 --- Control Assessments
+### 04- Control Assessments
 
 -   Privileged Access & MFA Control Assessment
 -   Backup Restoration Control Test Report
 
-### 05 --- Third-Party Risk
+### 05- Third-Party Risk
 
 Vendor security risk assessment demonstrating due diligence, evidence
 review, findings, conditional approval, remediation requirements, and
@@ -67,7 +67,7 @@ collection; remediation tracking; policy writing; executive reporting.
 
 The project uses NIST CSF 2.0 as the primary organizational framework
 and selected NIST SP 800-53 control concepts as a control reference. The
-internal 1--4 maturity scale used in the workbook is a
+internal 1-4 maturity scale used in the workbook is a
 portfolio-specific assessment scale and is not presented as an official
 NIST Implementation Tier.
 
